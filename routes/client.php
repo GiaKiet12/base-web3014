@@ -1,5 +1,5 @@
 <?php
 
-use Ductong\FpolyBaseWeb3014\Controllers\Client\HomeController;
+use tuankiet\src\Controllers\Client\HomeController;
 
 $router->get( '/', HomeController::class . '@index');

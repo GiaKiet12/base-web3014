@@ -1,6 +1,6 @@
 <?php
 
-use Ductong\FpolyBaseWeb3014\Controllers\Admin\UserController;
+use tuankiet\src\Controllers\Admin\UserController;
 
 $router->mount('/admin', function () use ($router) {
 

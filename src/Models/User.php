@@ -1,8 +1,8 @@
 <?php
 
-namespace tuankiet\src\Models;
+namespace  Tuankiet\Web3014\Models;
 
-use tuankiet\src\Commons\Model;
+use  Tuankiet\Web3014\Commons\Model;
 
 class User extends Model 
 {

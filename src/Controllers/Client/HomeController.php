@@ -1,8 +1,8 @@
 <?php 
 
-namespace tuankiet\src\Controllers\Client;
+namespace  Tuankiet\Web3014\Controllers\Client;
 
-use tuankiet\src\Commons\Controller;
+use  Tuankiet\Web3014\Commons\Controller;
 
 class HomeController extends Controller
 {

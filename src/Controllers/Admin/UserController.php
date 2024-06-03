@@ -1,10 +1,10 @@
 <?php
 
-namespace tuankiet\src\Controllers\Admin;
+namespace  Tuankiet\Web3014\Controllers\Admin;
 
-use tuankiet\src\Commons\Controller;
-use tuankiet\src\Commons\Helper;
-use tuankiet\src\Models\User;
+use  Tuankiet\Web3014\Commons\Controller;
+use  Tuankiet\Web3014\src\Commons\Helper;
+use  Tuankiet\Web3014\src\Models\User;
 
 class UserController extends Controller
 {

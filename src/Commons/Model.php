@@ -1,6 +1,6 @@
 <?php
 
-namespace tuankiet\src\Commons;
+namespace Tuankiet\Web3014\Commons;
 
 use Doctrine\DBAL\Connection;
 use Doctrine\DBAL\DriverManager;

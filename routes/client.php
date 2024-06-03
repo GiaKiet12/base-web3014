@@ -1,5 +1,5 @@
 <?php
 
-use tuankiet\src\Controllers\Client\HomeController;
+use Tuankiet\Web3014\Controllers\Client\HomeController;
 
 $router->get( '/', HomeController::class . '@index');

@@ -1,8 +1,8 @@
 {
-    "name": "tuankiet/src",
+    "name": "tuankiet/web3014",
     "autoload": {
         "psr-4": {
-            "Tuankiet\\Src\\": "src/"
+            "Tuankiet\\Web3014\\": "src/"
         }
     },
     "authors": [

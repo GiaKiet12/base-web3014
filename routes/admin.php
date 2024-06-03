@@ -1,6 +1,6 @@
 <?php
 
-use tuankiet\src\Controllers\Admin\UserController;
+use Tuankiet\Web3014\Controllers\Admin\UserController;
 
 $router->mount('/admin', function () use ($router) {
 
